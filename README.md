@@ -4,8 +4,7 @@
 
 #### Find me on the web: 
 
-<a href="https://www.twitter.com/jibsyyyyy" src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/twitter.png"></a>
-
+![www.twitter.com/jibsyyyyy](https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/twitter.png")
 <!--
 **AjibolaMatthew1/AjibolaMatthew1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
