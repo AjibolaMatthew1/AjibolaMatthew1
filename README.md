@@ -2,7 +2,7 @@
 
 > Meet Ajibola: 
 - Ajibola is currently a student of the University of Lagos, Nigeria, studying Systems Engineering
-- He is interested in Education and he has co-founded an EdTech company ![Learnovate](www.learnovate.xyz) and hopes to make learning 3d by incoporating Augmented and Virtual reality techniques and tools.
+- He is interested in Education and he has co-founded an EdTech company [Learnovate](www.learnovate.xyz) and hopes to make learning 3d by incoporating Augmented and Virtual reality techniques and tools.
 - His love for data can't be explained as he is often found trying to analyze data, which led him to the field of Machine Learning and Artificial intelligence.
 - His excellent communication skills and his ability to stay driven until the end of whatever he initiates has set him apart from most of his peers. Team work and collaboration are one of his core attributes has he worked in different teams in several capacities.
 
