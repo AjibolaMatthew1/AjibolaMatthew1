@@ -8,8 +8,7 @@
 
 
 #### Find me on the web: 
-<a href=https://twitter.com/jibsyyyyy src=https://user-images.githubusercontent.com/52489772/158158579-ddddc520-679e-4f16-96c0-1033e9d707ac.png>
-<img src=”https://user-images.githubusercontent.com/52489772/158158579-ddddc520-679e-4f16-96c0-1033e9d707ac.png" alt=”my banner”>
+[<img align="left" alt="jibsyyyyy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jibsyyyyy)
 <!--
 **AjibolaMatthew1/AjibolaMatthew1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
