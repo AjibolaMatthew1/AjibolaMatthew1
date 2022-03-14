@@ -3,7 +3,7 @@
 
 
 #### Find me on the web: 
-<a href="https://twitter.com/jibsyyyyy" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsco.wikipedia.org%2Fwiki%2FFile%3ATwitter_bird_logo_2012.svg&psig=AOvVaw0-0eQWL3Hz3mN9-rR-I3Y_&ust=1647338612433000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCjptmsxfYCFQAAAAAdAAAAABAD" height="100" /></a>
+<a href="https://twitter.com/jibsyyyyy" target="blank"><img align="center" src="https://images.app.goo.gl/LCkjGu26LjEKWW2E8" height="100" /></a>
 
 <!--
 **AjibolaMatthew1/AjibolaMatthew1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
