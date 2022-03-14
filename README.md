@@ -3,7 +3,8 @@
 
 
 #### Find me on the web: 
-<a href="https://twitter.com/jibsyyyyy" target="blank"><img align="center" src="https://images.app.goo.gl/LCkjGu26LjEKWW2E8" height="100" /></a>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<a href="https://www.twitter.com/jibsyyyyy" class="fa fa-twitter"></a>
 
 <!--
 **AjibolaMatthew1/AjibolaMatthew1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
