@@ -3,8 +3,8 @@
 
 
 #### Find me on the web: 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://www.twitter.com/jibsyyyyy" class="fa fa-twitter"></a>
+
+<a href="https://www.twitter.com/jibsyyyyy" src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/assets/icons%20with%20padding/twitter.png"></a>
 
 <!--
 **AjibolaMatthew1/AjibolaMatthew1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
