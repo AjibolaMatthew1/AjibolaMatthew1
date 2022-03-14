@@ -10,7 +10,8 @@
 #### Find me on the web: 
 [<img align="left" alt="jibsyyyyy | Twitter" target=_blank width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jibsyyyyy)
 [<img align="left" alt="jibbycodes | LinkedIn" target=_blank width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://linkedin.com/in/jibbycodes)
-<!--
+[<img align="left" alt="jibsrepstech | Instagram" target=_blank width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />](https://instagram.com/jibsrepstech)
+
 **AjibolaMatthew1/AjibolaMatthew1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
